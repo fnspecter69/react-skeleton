@@ -18,9 +18,8 @@
   },
   "homepage": "https://github.com/fnspecter69/react-skeleton#readme",
   "dependencies": {
-    "@babel/core": "^7.10.3",
     "babel-preset-react": "^6.24.1",
-    "babelify": "^10.0.0",
+    "babelify": "^7.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "watchify": "^3.11.1"
