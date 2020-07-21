@@ -30146,7 +30146,7 @@ var ListItem = createClass({
       React.createElement(
         'h4',
         null,
-        this.props.ingredients
+        this.props.ingredient
       )
     );
   }
