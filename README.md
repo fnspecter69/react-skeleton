@@ -5,5 +5,5 @@
 
 `npm start`
 
-##Notes 
+## Notes 
 This project use React 16 and does not use webpack
