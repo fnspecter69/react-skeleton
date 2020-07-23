@@ -4,3 +4,6 @@
 ### To Build and Start run
 
 `npm start`
+
+##Notes 
+This project use React 16 and does not use webpack
